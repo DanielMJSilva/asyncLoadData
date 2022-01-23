@@ -1,0 +1,15 @@
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\bin\Debug\301203886(MachadoJustoDaSilva)__LAB3.exe.config
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\bin\Debug\301203886(MachadoJustoDaSilva)__LAB3.exe
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\bin\Debug\301203886(MachadoJustoDaSilva)__LAB3.pdb
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\301203886(MachadoJustoDaSilva)__LAB3.csproj.AssemblyReference.cache
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\MainWindow.g.cs
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\App.g.cs
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\301203886(MachadoJustoDaSilva)__LAB3_MarkupCompile.cache
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\301203886(MachadoJustoDaSilva)__LAB3_MarkupCompile.lref
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\MainWindow.baml
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\301203886(MachadoJustoDaSilva)__LAB3.g.resources
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\_301203886_MachadoJustoDaSilva___LAB3.Properties.Resources.resources
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\301203886(MachadoJustoDaSilva)__LAB3.csproj.GenerateResource.cache
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\301203886(MachadoJustoDaSilva)__LAB3.csproj.CoreCompileInputs.cache
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\301203886(MachadoJustoDaSilva)__LAB3.exe
+C:\Users\DMJS\Desktop\Daniel\Software Eng\COMP212 - Programming 3\Assignment 3\301203886(MachadoJustoDaSilva)__LAB3\301203886(MachadoJustoDaSilva)__LAB3\obj\Debug\301203886(MachadoJustoDaSilva)__LAB3.pdb
